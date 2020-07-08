@@ -1,7 +1,7 @@
 ## Processo
 
 Muito obrigado pelo interesse em fazer parte de nosso time de jedAIS!
-O objetivo dessa parte do processo é conhecer mais sobre suas habilidades técnicas, assim saberemos em quais desafios você pode melhor se encaixar e quais gaps podem ser trabalhados juntos ao time caso você seja selecionado.
+O objetivo dessa parte do processo é conhecer mais sobre suas habilidades técnicas, assim saberemos em quais desafios você pode melhor se encaixar e quais gaps(se houverem) podem ser trabalhados juntos ao time caso você seja selecionado.
 
 ## Objetivo do projeto
 
