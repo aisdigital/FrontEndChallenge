@@ -25,6 +25,8 @@ Implementar um web app que consuma a API Pokemon TCG(https://pokemontcg.io/) uti
 - Nome
 - ID do Pokemon
 - Tipo(s)
+- Resistencia(s)
+- Fraqueza(s)
 - Lista de nomes dos ataques do pokemon ao clicar exibir a modal de detalhe
 
 #### Modal com detalhe do ataque do Pokemon com:
@@ -33,8 +35,6 @@ Implementar um web app que consuma a API Pokemon TCG(https://pokemontcg.io/) uti
 - Nome
 - Dano
 - Descrição
-- Resistencia(s)
-- Fraqueza(s)
 
 ### Requisitos
 
