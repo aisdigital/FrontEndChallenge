@@ -51,8 +51,9 @@ Implementar um web app que consuma a API Pokemon TCG(https://pokemontcg.io/) uti
 
 
 #### Diferenciais:
-- Aplicação de SOLID,DRY e Clean Code
+- Aplicação de SOLID, DRY e Clean Code
 - Arquitetura com divisão de responsabilidade
 - Implementação PWA
 - Documentação clara para executar o projeto
 - Código publicado/implantado
+- Utilizar o mínimo de pacotes terceiros. Quanto mais mão na massa, melhor
