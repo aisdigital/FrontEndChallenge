@@ -56,4 +56,4 @@ Implementar um web app que consuma a API Pokemon TCG(https://pokemontcg.io/) uti
 - Implementação PWA
 - Documentação clara para executar o projeto
 - Código publicado/implantado
-- Utilizar o mínimo de pacotes terceiros. Quanto mais mão na massa, melhor
+- Não reinvente a roda: use bibliotecas que facilitem o deploy do seu projeto, por exemplo. Por outro lado, desenvolva seus próprios componentes e mostre do que você é capaz, queremos ver sua lógica de programação e sua capacidade de resolver problemas, sem a utilização de bibliotecas prontas
